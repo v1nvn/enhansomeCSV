@@ -109,7 +109,7 @@ Here are some awesome tools for dealing with CSV:
 * [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 * [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 72,655 | 🐛 135 | 📅 2026-01-30 - A topic-centric list of high-quality open datasets in public domains.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 72,662 | 🐛 135 | 📅 2026-01-30 - A topic-centric list of high-quality open datasets in public domains.
 * [United Nations data](https://data.un.org) - Data from the UN
 
 ## Conferences
@@ -131,7 +131,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## META: Other similar lists
 
-* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,114 | 🐛 4 | 📅 2026-01-02 - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,114 | 🐛 3 | 📅 2026-02-07 - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 * [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 * [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
 
