@@ -29,15 +29,15 @@ Here are some awesome tools for dealing with CSV:
 ## Tools
 
 * [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) ⚠️ Archived - Comprehensive examples of using awk.
-* [QSV](https://github.com/dathere/qsv) ⭐ 3,492 | 🐛 47 | 🌐 Rust | 📅 2026-02-20 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
+* [QSV](https://github.com/dathere/qsv) ⭐ 3,519 | 🐛 47 | 🌐 Rust | 📅 2026-03-08 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
 * [ParaText](https://github.com/wiseio/paratext) ⭐ 1,054 | 🐛 34 | 🌐 C++ | 📅 2023-09-05 - CSV parsing at 2.5 GB per second.
 * [graph-cli](https://github.com/mcastorina/graph-cli) ⭐ 806 | 🐛 26 | 🌐 Python | 📅 2022-09-03 - Flexible command line tool to create graphs from CSV data.
-* [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) ⭐ 697 | 🐛 20 | 🌐 Python | 📅 2025-10-04 - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv) ⭐ 697 | 🐛 20 | 🌐 Python | 📅 2025-10-04, [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
-* [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) ⭐ 579 | 🐛 195 | 📅 2025-12-03 - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
-* [d3-dsv](https://github.com/d3/d3-dsv) ⭐ 444 | 🐛 16 | 🌐 JavaScript | 📅 2024-01-05 - d3.js parser and formatter module for delimiter-separated values.
+* [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) ⭐ 698 | 🐛 20 | 🌐 Python | 📅 2025-10-04 - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv) ⭐ 698 | 🐛 20 | 🌐 Python | 📅 2025-10-04, [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
+* [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) ⭐ 584 | 🐛 198 | 📅 2025-12-03 - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
+* [d3-dsv](https://github.com/d3/d3-dsv) ⭐ 445 | 🐛 16 | 🌐 JavaScript | 📅 2024-01-05 - d3.js parser and formatter module for delimiter-separated values.
 * [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md) ⭐ 78 | 🐛 6 | 🌐 C# | 📅 2021-03-26 - An efficient, easy to use .NET parsing and writing library for CSV.
-* [CSVGet](http://github.com/fizx/csvget/tree/master) ⭐ 48 | 🐛 0 | 🌐 Ruby | 📅 2009-10-16 - Get structured data from sites as CSV.
-* [csvprintf](https://github.com/archiecobbs/csvprintf) ⭐ 43 | 🐛 2 | 🌐 C | 📅 2026-01-17 - UNIX command line utility for parsing and formatting output based on CSV files.
+* [CSVGet](http://github.com/fizx/csvget/tree/master) ⭐ 47 | 🐛 0 | 🌐 Ruby | 📅 2009-10-16 - Get structured data from sites as CSV.
+* [csvprintf](https://github.com/archiecobbs/csvprintf) ⭐ 43 | 🐛 2 | 🌐 C | 📅 2026-03-01 - UNIX command line utility for parsing and formatting output based on CSV files.
 * [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator \*.
 * [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 * [CSVKit](https://csvkit.readthedocs.io/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
@@ -57,7 +57,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Repair or Validate CSV
 
-* [Csvlint.go](https://github.com/Clever/csvlint) ⭐ 204 | 🐛 14 | 🌐 Makefile | 📅 2025-11-05 - Command line tool for validating CSV files against RFC 4180.
+* [Csvlint.go](https://github.com/Clever/csvlint) ⭐ 205 | 🐛 14 | 🌐 Makefile | 📅 2025-11-05 - Command line tool for validating CSV files against RFC 4180.
 * [scrubcsv](https://github.com/faradayio/scrubcsv) ⚠️ Archived - Remove bad records from a CSV file and normalize (requires rust)
 * [csvstudio](http://www.csvstudio.com/) - A smart app to repair syntax errors in very large CSV files.
 * [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) - Find relationships between a set of related CSVs
@@ -77,7 +77,7 @@ Here are some awesome tools for dealing with CSV:
 
 ### Convert to or from CSV
 
-* [CSV to Table](https://github.com/vividvilla/csvtotable) ⭐ 1,168 | 🐛 19 | 🌐 Python | 📅 2021-01-05 - Convert CSV files to searchable and sortable HTML table.
+* [CSV to Table](https://github.com/vividvilla/csvtotable) ⭐ 1,171 | 🐛 19 | 🌐 Python | 📅 2021-01-05 - Convert CSV files to searchable and sortable HTML table.
 
 ### CSV <-> JSON
 
@@ -109,7 +109,7 @@ Here are some awesome tools for dealing with CSV:
 * [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 * [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 72,943 | 🐛 135 | 📅 2026-02-17 - A topic-centric list of high-quality open datasets in public domains.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 73,313 | 🐛 140 | 📅 2026-03-04 - A topic-centric list of high-quality open datasets in public domains.
 * [United Nations data](https://data.un.org) - Data from the UN
 
 ## Conferences
@@ -131,7 +131,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## META: Other similar lists
 
-* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,119 | 🐛 3 | 📅 2026-02-07 - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,125 | 🐛 3 | 📅 2026-02-07 - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 * [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 * [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
 
